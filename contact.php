@@ -19,7 +19,7 @@ tets
             <td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>sf
 				<li><a href="room.php">ห้องพัก&ราคา</li>
-				<li><a herf="guest.php">สมุดเยี่ยม</li>
+				<li><a he
 				<li><a href="contact.php">ติดต่อ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
