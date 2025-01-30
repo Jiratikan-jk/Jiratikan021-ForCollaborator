@@ -16,7 +16,7 @@ tets
             <td width="1007" bgcolor="#FFFFFF">
                 <img src="images/map.gif">
             </td>
-            <td width="190" bgcolor="#FFFF66"><ul>
+            <td width="190" bgcoฟหกlor="#FFFF66"><ul>
 				<li><a
 				<li><a href="contact.php">ติดต่อ</li>
 				</ul><p>
